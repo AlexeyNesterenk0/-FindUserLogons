@@ -10,10 +10,10 @@ Aleksey Nesterenko 2023
 
 #>
 
-$path="\\AVANGARD.LOC\fs\Bases\scripts\FIFO\Phonebook\logs\dbcache"
+$path="\\<PATHTOLOGFOLDERS>\dbcache"
 Clear-Host
 Write-Host "Collect logs ..."
-$Logs = Get-ChildItem -Path "\\avangard.loc\fs\Bases\Scripts\FIFO\Phonebook\logs\*"
+$Logs = Get-ChildItem -Path "\\<PATHTOLOGFOLDERS>\*"
 Clear-Host
 $cnt = $Logs.Count
 [int32]$i = 1
