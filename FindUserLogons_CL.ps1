@@ -31,7 +31,7 @@ $ErrorActionPreference = 'SilentlyContinue'
                 Write-Host ("-----`nTotal users: {0}" -f $hash.Count)
 }
 
-    $path="\\AVANGARD.LOC\fs\Bases\scripts\FIFO\Phonebook\logs\dbcache"
+    $path="\\<PATHTOLOGFOLDERS>\dbcache"
     Clear-Host
     Write-Host "Collect Users ..."
 
