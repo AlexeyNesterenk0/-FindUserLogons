@@ -9,7 +9,7 @@ FindUserLogons_CL - оперирует накопленной ранее баз�
 
 Для начала накопления логов добавьте run.cmd в LOGON GPO 
 
-(findUserLogon.png)
+![findUserLogon](https://github.com/user-attachments/assets/1e479edc-98b5-4801-bfd5-543cbb0e92ff)
 
 Внимание :
 
