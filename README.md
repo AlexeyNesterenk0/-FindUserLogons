@@ -8,7 +8,7 @@
 FindUserLogons_CL - оперирует накопленной ранее базой и обеспечивает быстрый вывод истории входа
 
 Для начала накопления логов добавьте run.cmd в LOGON GPO 
-
+<img src="findUserLogon.png" width="300" />
 [findUserLogon](https://github.com/user-attachments/assets/1e479edc-98b5-4801-bfd5-543cbb0e92ff)
 
 Внимание :
